@@ -21,7 +21,7 @@ CONTROLNET_WEIGHT = 1.3
 CONTROLNET_PIXEL_PERFECT = True
 CONTROLNET_CONTROL_MODE = 'Balanced'
 
-NUMBER_OF_IMAGES = 2
+NUMBER_OF_IMAGES = 4
 
 
 def request_image(qr_code, promt):
